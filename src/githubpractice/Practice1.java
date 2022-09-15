@@ -8,12 +8,14 @@ public class Practice1 {
         String houseName = "Grove Road";
         String county = "Dunstable";
         String postCode = "LU5 5PD";
+        String myHusbandName = "Jimil";
 
         System.out.println(myName);
    System.out.println(houseNo);
         System.out.println(houseName);
         System.out.println(county);
         System.out.println(postCode);
+        System.out.println(myHusbandName);
 
     }
 }
