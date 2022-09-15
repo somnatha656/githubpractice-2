@@ -9,6 +9,7 @@ public class Practice1 {
         String county = "Dunstable";
         String postCode = "LU5 5PD";
         String myHusbandName = "Jimil";
+        String mySonName = "Vansh";
 
         System.out.println(myName);
    System.out.println(houseNo);
@@ -16,6 +17,7 @@ public class Practice1 {
         System.out.println(county);
         System.out.println(postCode);
         System.out.println(myHusbandName);
+        System.out.println(mySonName);
 
     }
 }
